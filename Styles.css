@@ -1,0 +1,56 @@
+body{
+    background: lightblue;
+    cursor: wait;
+}
+*{
+    margin: 0;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color:gray;
+    width: 300px;
+    height: 10px;
+    background-color:rgb(0, 100,240);
+    padding: 10px 80px 40px;
+    position: relative;
+    border: 10px solid var(10px);
+    border-radius: 10px;
+    margin: auto;
+}
+.ww{
+    margin: auto;
+    margin-top: 20px;
+}
+h1:hover{
+    color:black;
+    background: gray;
+}
+/* .qp,.yy{
+    display: flex;
+
+}*/
+.rr{
+    background: red;
+}
+.ti,.m,.t,.w,.fr,.thu{
+    width: 100px;
+    height: 20px;
+    background-color:rgb(0, 100,240);
+    padding: 20px;
+    text-align: center;
+    border: 10px solid var(10px);
+    border-radius: 10px;
+
+}
+.yy{
+  width: auto;
+  height: 50px;
+  background: gray;
+  position: relative;
+  text-align: center;
+}
+tr:hover{
+    background: lightblue;
+    color: black;
+}
